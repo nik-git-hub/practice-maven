@@ -7,7 +7,7 @@
 *.tar.gz
 *.rar
 
- Intellij
+# Intellij
 .idea/
 *.iml
 *.iws
